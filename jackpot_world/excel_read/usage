@@ -1,0 +1,17 @@
+参数文件 file_name.json 文件名随意
+脚本文件: Extract_Reels_From_Excel.py
+使用： python Extract_Reels_From_Excel.py file_name.json
+
+参数文件说明：
+符合json对象的格式要求: 字符串双引号
+    "ExcelName" : 字符串：输入的EXCEL名称（文件名、相对路径名或完整路径名，windows下路径需要注意\转义字符）
+    "SheetNames" : 一维列表：EXCEL中需要提取轮带的sheet名称；比如["Sheet1", "Sheet1", "Sheet2"],
+    "SheetRange" : 二维列表：对应SheetNames中每个sheet需要提取范围的起始行号和起始列号；比如[[9, 400 , "A", "E"], [1, 100, "B", "F"], [[1, 100, "B", "F"]]
+    "OutTxtName" : 字符串：输出的文件名（文件名、相对路径名或完整路径名，windows下完整路径名需要注意\转义字符）
+	"ProgramType" : 整数：0或1; 0是为C++程序生成的轮带，1是为python程序生成的轮带
+
+windows下路径名称： \用\\表示或者改成Linux风格的/, 建议路径中不要有空格
+"test.xlsx"
+"./test.xlsx"
+"F:\\XudongDuan\\workspace\\programming\\python\\JackpotWorld\\test.xlsx"
+"F:/XudongDuan/workspace/programming/python/JackpotWorld/test.xlsx"

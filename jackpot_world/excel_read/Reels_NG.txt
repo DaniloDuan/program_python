@@ -1,0 +1,10 @@
+Sheet1:
+[
+[LQ, H4, H6, H4, LQ, H7, LQ, H5, LQ, SB, SB, LJ, LQ, H1, H5, H6, H7, LJ, LQ, H4, LQ, LJ, WW, H1, LQ, LK, SF, LJ, LK, H7, H5, H7, LK, H3, LA, SF, LA, LJ, H6, LA, H7, LJ, H2, LQ, LJ, H7, LJ, LA, H2, LQ, LK, H4, LJ, H5, H7, LA, LK, SF, LQ, H3, LA, H2, H5, LK, H5, LA, H3, H5, LJ, H3, LK, H2, LJ, LA, H1, H6, LQ, LK, H1, H6, H2, LK, LA, H1, H6, H3, H4, LA, LK, H1, LA, LK, H6, H6, LK, H7, LQ, LJ, H7, LA, H2],
+[LQ, H4, LA, SB, SB, H5, LA, LK, H7, LJ, LJ, H6, H4, LQ, LK, H4, LJ, WW, LJ, H3, LK, H3, LJ, LJ, H3, H5, H5, LQ, H7, LK, LJ, LJ, H5, H6, LJ, H6, H7, LQ, H6, H4, LK, LA, H7, LQ, LK, H1, LJ, H6, H7, LA, LQ, H6, H7, LA, LQ, WW, WW, LA, LQ, WW, LA, H2, LQ, H1, H1, H4, LA, H4, LQ, LK, H2, LA, H4, LQ, LK, H2, LA, H2, LQ, LK, H1, H2, LA, SB, H5, LJ, LK, H6, H7, H2, LA, LK, H3, H1, H3, LK, H6, H7, H7, H3, LQ, LJ, H6, H7, H5],
+[SB, H7, LA, H6, H7, LK, LA, H6, H7, H3, LQ, LJ, SB, SB, H7, LQ, LJ, WW, LQ, H6, H7, LK, LQ, H7, LK, H6, LQ, H3, LQ, LK, H1, LQ, H6, H7, LQ, H3, LJ, H6, LA, H4, LK, LQ, WW, WW, LJ, LJ, H6, LQ, H5, LK, H5, H6, LJ, LK, H4, LQ, LJ, H1, LQ, H5, H7, LJ, H2, LJ, LK, H5, LA, H6, LA, H4, H5, LA, H2, H4, LJ, H5, H1, H2, LA, H4, H5, H1, H1, H2, H4, LJ, H5, LA, LK, H1, H3, LA, LA, H3, LA, H3, H2, H7, LK, LK, H2, LQ, LJ, H7, LA, LK, H4],
+[H4, LA, LA, H1, H5, H4, LQ, H5, LA, H3, H5, H7, H4, LA, SB, SB, H7, LQ, H3, H5, H4, LK, H3, LJ, WW, LQ, H4, LJ, H7, H6, H5, LJ, H7, H5, LJ, LK, H7, LQ, LA, LJ, WW, WW, LQ, LJ, H2, LK, LQ, H7, H6, H5, H7, LJ, H5, LK, H2, H4, H7, H7, H6, LK, H2, LJ, H3, LK, H6, LK, H3, LJ, H2, SB, SB, H3, LJ, H1, LQ, LK, H3, LJ, H1, LQ, WW, LJ, H3, LK, H4, LK, LQ, H7, H2, LK, H2, H4, H7, LA, H1, H2, LA, LK, H6, H6, H1, H2, LA, LQ, H6, LQ, LA, H7, H6, LQ, LJ],
+[H1, LA, H5, LJ, H5, LK, H4, H2, LQ, LJ, SF, LJ, H2, H6, LQ, H5, LK, LJ, H1, LA, H3, H5, H6, LK, LQ, H6, LJ, H1, LA, H7, LQ, H7, H1, H7, SF, LK, H4, H7, LA, LK, H7, LJ, WW, LA, LK, WW, WW, H6, H7, H6, H5, SF, H4, LK, LA, SF, H5, LQ, H4, LJ, LQ, H3, H7, H6, LK, H5, H2, LQ, H1, LK, LQ, H4, H3, LK, LJ, H1, H3, LJ, H2, H7, H2, H7, LJ, H1, H4, H1, LA, SB, SB, LA, LQ, H3, H3, LJ, H2, LQ, LA, SF, H6, H7, H4, LK, LA, H6, H5, LJ, SB, SB, LQ, H3, LA, H3, H2],
+]
+
+

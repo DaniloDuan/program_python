@@ -1,0 +1,10 @@
+{
+    "ExcelName" : "new_test.xlsx",
+    "SheetNames" : ["Sheet1"],
+    "SheetRange" : [[9, 400 , "A", "E"]],
+    "OutTxtName" : "Reels_NG.txt",
+	"ProgramType" : 1
+}
+
+
+
